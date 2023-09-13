@@ -1,0 +1,19 @@
+.blue {
+    background-color: blue;
+    border: 5px solid;
+    color: black;
+}
+
+.pink {
+    background-color: pink;
+}
+
+.red {
+    background-color: red;
+}
+
+.red,
+blue,
+.pink {
+    margin: 50px;
+}
